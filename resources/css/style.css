@@ -1,6 +1,7 @@
 body{
   background-color: black;
   text-align: center;
+  font-family: verdana;
 }
 
 h1{
@@ -11,5 +12,23 @@ h1{
 #coming{
   color: aquamarine;
   size: 30px
+}
 
+#remembers{
+  size: 42px;
+  font-weight: 300;
+  color: gray;
+
+}
+
+#personal{
+  size: 42px;
+  font-weight: 300;
+  color: white;
+
+}
+
+#copyright{
+  color: grey;
+  text-align: right;
 }
